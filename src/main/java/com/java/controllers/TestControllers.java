@@ -8,7 +8,7 @@ public class TestControllers {
 	
 	@GetMapping("/")
 	public String print() {
-		return "V1 Tag";
+		return "V2 Tag";
 	}
 
 }
